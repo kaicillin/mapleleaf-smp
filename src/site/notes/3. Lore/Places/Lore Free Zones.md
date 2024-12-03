@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-lore/places/lore-free-zones/"}
+{"dg-publish":true,"permalink":"/3-lore/places/lore-free-zones/","created":"2024-11-25T21:10:41.894-05:00"}
 ---
 
 #LoreFreeZone #Places 

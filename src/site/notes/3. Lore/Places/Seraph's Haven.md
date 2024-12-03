@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-lore/places/seraph-s-haven/"}
+{"dg-publish":true,"permalink":"/3-lore/places/seraph-s-haven/","created":"2024-11-25T21:16:46.942-05:00"}
 ---
 
 #Places #LoreFreeZone 

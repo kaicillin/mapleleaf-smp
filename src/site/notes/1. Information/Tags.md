@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/1-information/tags/"}
+{"dg-publish":true,"permalink":"/1-information/tags/","created":"2024-11-25T21:09:53.639-05:00"}
 ---
 
 
-### Lore Tags
+# Lore Tags
 #Places 
 	Relating to lore significant places such as countries/factions/empires, places significant events happened, etc
 #LoreFreeZone
@@ -14,7 +14,7 @@
 	Relating to lore significant events
 #Lore 
 	Lore
-### Meta Tags
+# Meta Tags
 #Members 
 	Relating to specific members of Maple Leaf
 #Meta 

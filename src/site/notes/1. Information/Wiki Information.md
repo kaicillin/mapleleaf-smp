@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-information/wiki-information/"}
+{"dg-publish":true,"permalink":"/1-information/wiki-information/","created":"2024-11-25T15:50:36.277-05:00"}
 ---
 
 #Meta 
@@ -17,6 +17,6 @@ Oh also, incase you are someone who's from the internet. If this isn't obvious.
 
 Respect everyone and don't push for information they don't share themselves!
 
-### Credits?
+# Credits?
 Wiki background: https://wallpapercave.com/w/wp2445332 
 Obsidian Plugins: [Digital Garden](https://github.com/oleeskild/digitalgarden),[ Dynamic Background](https://github.com/samuelsong70/obsidian-dynamic-background?tab=readme-ov-file#open-setting-window)

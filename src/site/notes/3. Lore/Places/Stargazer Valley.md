@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-lore/places/stargazer-valley/"}
+{"dg-publish":true,"permalink":"/3-lore/places/stargazer-valley/","created":"2024-11-25T21:09:21.205-05:00"}
 ---
 
 #Places 

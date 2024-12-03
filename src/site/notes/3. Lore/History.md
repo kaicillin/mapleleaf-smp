@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-lore/history/"}
+{"dg-publish":true,"permalink":"/3-lore/history/","created":"2024-11-25T21:09:30.153-05:00"}
 ---
 
 

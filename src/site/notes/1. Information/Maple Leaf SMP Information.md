@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/1-information/maple-leaf-smp-information/"}
+{"dg-publish":true,"permalink":"/1-information/maple-leaf-smp-information/","created":"2024-11-25T13:20:22.761-05:00"}
 ---
 
 #Meta 
-##### Hosted on
+### Hosted on
 Aternos.org
-##### Software
+### Software
 PaperMC/Bukkit
-###### Version
+### Version
 1.21.3, Java
-##### Platform
+### Platform
 Java + Bedrock
 	With the use of the GeyserMC plugin
-##### Plugins
+### Plugins
 [GeyserMC](https://geysermc.org/)  - To allow for crossplay between Java and Bedrock
 [OpenInv](https://github.com/Jikoo/OpenInv)   - For lore and admin purposes
 [DiscordSRV](https://modrinth.com/plugin/discordsrv)  - To forward chat messages to and from a designated chat in discord
@@ -20,7 +20,7 @@ Java + Bedrock
 [Geyser Extras](https://modrinth.com/plugin/geyserextras)  - Allows Bedrock users to gain access to some Java features
 [ViaVersion](https://ci.viaversion.com/job/ViaVersion/)  - Allows users of other version to join
 [WorldGuard](https://worldguard.enginehub.org/en/latest/)(Not fully setup)  
-##### Whitelist
+### Whitelist
 Enabled  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/2-maple-leaf-members/a-members/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">

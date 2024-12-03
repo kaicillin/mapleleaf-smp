@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-lore/events/explosion-of-darkpire/"}
+{"dg-publish":true,"permalink":"/3-lore/events/explosion-of-darkpire/","created":"2024-11-25T22:00:23.100-05:00"}
 ---
 
 #Events #Lore 

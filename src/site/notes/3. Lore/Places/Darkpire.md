@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-lore/places/darkpire/"}
+{"dg-publish":true,"permalink":"/3-lore/places/darkpire/","created":"2024-11-25T16:21:20.963-05:00"}
 ---
 
 #Places 
