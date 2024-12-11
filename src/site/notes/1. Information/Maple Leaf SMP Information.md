@@ -40,6 +40,7 @@ Enabled
 - [[2. Maple Leaf Members/Rileyy001 (Riley)\|Rileyy001 (Riley)]]
 - [[2. Maple Leaf Members/RoseTurtle78213 (Leaf)\|RoseTurtle78213 (Leaf)]]
 - [[2. Maple Leaf Members/SKWildflower (Miko)\|SKWildflower (Miko)]]
+- [[2. Maple Leaf Members/Th3s1ll13s (Grian)\|Th3s1ll13s (Grian)]]
 - [[2. Maple Leaf Members/Vortex6209 (Odyssey)\|Vortex6209 (Odyssey)]]
 - [[2. Maple Leaf Members/XSleepySeraphx (Seraph)\|XSleepySeraphx (Seraph)]]
 - [[2. Maple Leaf Members/YvetteFaun (Yvette)\|YvetteFaun (Yvette)]]

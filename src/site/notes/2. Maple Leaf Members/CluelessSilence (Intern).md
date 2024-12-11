@@ -14,3 +14,6 @@ They mainly live in the console, and only appear in physical form to test or tro
 She posts sometimes onto TikTok at this time.  
 Their console access may make them seem like 'god' to other characters, however they are *not* in any way god or divine. There are currently no official gods on the server.
 ### Socials
+Bluesky: [@kaicillin.bsky.social](https://bsky.app/profile/kaicillin.bsky.social)
+Twitter: [@kaicillin](https://x.com/kaicillin)
+TikTok: [@kaicillin](https://www.tiktok.com/@kaicillin)
