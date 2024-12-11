@@ -9,3 +9,6 @@ She/They
 ### The Character
 Yvette does not have lore, and is teamed loosely to [[2. Maple Leaf Members/Milkway173 (Milk)\|Milkway173 (Milk)]]
 ### Socials
+Twitter: [@Yvette099333054](https://x.com/Yvette099333054)
+Tumblr: [@yvette-lily342](https://www.tumblr.com/yvette-lily342)
+Youtube: [@Yvettenoodles](https://www.youtube.com/@yvettenoodles)
