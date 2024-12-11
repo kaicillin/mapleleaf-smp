@@ -5,5 +5,7 @@
 #Members 
 ### Pronouns 
 ### The Creator
+The only reason [[2. Maple Leaf Members/PineappleTrain (Tiki)\|PineappleTrain (Tiki)]] has not given into their VARIOUS IMPULSIVE ideas!
 ### The Character
+Peace. Just some peace and queit, perhaps on a farm, a simple life with preferably no explosives. Thats what they want. *Just that.*
 ### Socials

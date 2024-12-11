@@ -13,13 +13,14 @@ PaperMC/Bukkit
 Java + Bedrock
 	With the use of the GeyserMC plugin
 ### Plugins
-[GeyserMC](https://geysermc.org/)  - To allow for crossplay between Java and Bedrock
-[OpenInv](https://github.com/Jikoo/OpenInv)   - For lore and admin purposes
-[DiscordSRV](https://modrinth.com/plugin/discordsrv)  - To forward chat messages to and from a designated chat in discord
-[Waypoints](https://modrinth.com/plugin/waypoints)  - Also used to track people, set waypoints to places, and find the last place of death
-[Geyser Extras](https://modrinth.com/plugin/geyserextras)  - Allows Bedrock users to gain access to some Java features
-[ViaVersion](https://ci.viaversion.com/job/ViaVersion/)  - Allows users of other version to join
-[WorldGuard](https://worldguard.enginehub.org/en/latest/)(Not fully setup)  
+[GeyserMC](https://geysermc.org/)  - To allow for crossplay between Java and Bedrock  
+[OpenInv](https://github.com/Jikoo/OpenInv)   - For lore and admin purposes  
+[DiscordSRV](https://modrinth.com/plugin/discordsrv)  - To forward chat messages to and from a designated chat in discord  
+[Waypoints](https://modrinth.com/plugin/waypoints)  - Also used to track people, set waypoints to places, and find the last place of death  
+[Geyser Extras](https://modrinth.com/plugin/geyserextras)  - Allows Bedrock users to gain access to some Java features  
+[ViaVersion](https://ci.viaversion.com/job/ViaVersion/)  - Allows users of other version to join  
+[WorldGuard](https://worldguard.enginehub.org/en/latest/)(Not fully setup)   \
+[TAB](https://modrinth.com/plugin/tab-was-taken) 
 ### Whitelist
 Enabled  
 

@@ -7,6 +7,6 @@
 He/They
 ### The Creator
 ### The Character
-Bee Boy!
+Bee Boy! The c!Tubbo of the group.
 ### Socials
 Twitter: [@\_Miko_Live_](https://x.com/_Miko_Live_)

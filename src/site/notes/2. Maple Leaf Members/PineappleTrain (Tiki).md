@@ -7,5 +7,8 @@ Bedrock: Tiki1520
 ### Pronouns 
 She/They
 ### The Creator
+Old- *dies.*   
+Admin on the server, however this does not carry over into lore.
 ### The Character
+Tiki is 
 ### Socials
