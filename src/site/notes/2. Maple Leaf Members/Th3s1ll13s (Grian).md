@@ -12,6 +12,7 @@ SELF DESCRIBED WALKING LORE DOC/pos
 Got Kidnapped, possibly manipulative! Who Knows!
 ### Socials
 Bluesky: [@th3s1ll13s.bsky.social](https://bsky.app/profile/th3s1ll13s.bsky.social)
+Pronouns Page: [@Watchers](https://en.pronouns.page/@Watchers)
 TikTok: [@th3_s1ll13s](https://www.tiktok.com/@th3_s1ll13s)
 Twitter: [@th3_s1ll13s](https://x.com/th3_s1ll13s)
 Youtube: [@Th3S1ll13s](https://www.youtube.com/@th3s1ll13s)
