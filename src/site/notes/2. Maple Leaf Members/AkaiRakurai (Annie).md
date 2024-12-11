@@ -10,3 +10,5 @@ A cryptic on NewTales SMP, so probably equally chaotic in life! A menace /pos
 ### The Character
 "Female satan" - Leaf, 2024
 ### Socials
+Bluesky: [@anminty.bsky.social](https://bsky.app/profile/anminty.bsky.social)
+Twitter: [@Anminty](https://x.com/Anminty)

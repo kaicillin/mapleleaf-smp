@@ -30,6 +30,7 @@ Enabled
 
 
 #Members
+- [[2. Maple Leaf Members/AkaiRakurai (Annie)\|AkaiRakurai (Annie)]]
 - [[2. Maple Leaf Members/CluelessSilence (Intern)\|CluelessSilence (Intern)]]
 - [[2. Maple Leaf Members/DarkWarrior4 (Dark)\|DarkWarrior4 (Dark)]]
 - [[2. Maple Leaf Members/EnablingCone779 (Ceci)\|EnablingCone779 (Ceci)]]
