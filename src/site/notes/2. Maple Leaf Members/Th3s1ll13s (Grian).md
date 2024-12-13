@@ -10,6 +10,8 @@ Infected the world with skulk in another SMP! Chaotic
 SELF DESCRIBED WALKING LORE DOC/pos
 ### The Character
 Got Kidnapped, possibly manipulative! Who Knows!
+
+Allied to [[2. Maple Leaf Members/Milkway173 (Milk)\|Milkway173 (Milk)]]
 ### Socials
 Bluesky: [@th3s1ll13s.bsky.social](https://bsky.app/profile/th3s1ll13s.bsky.social)
 Pronouns Page: [@Watchers](https://en.pronouns.page/@Watchers)
