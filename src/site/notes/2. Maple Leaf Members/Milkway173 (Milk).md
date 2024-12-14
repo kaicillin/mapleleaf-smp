@@ -16,7 +16,7 @@ Milk, is Milk! And enjoys causing chaos,
 Milk is the chaotic gremlin (/pos) of the server, someone who has good intentions but has questionable execution of said intentions and goals. He cares deeply about people close to him and is not afraid to defend them, going as far as threats and various explosives.  
 He wears a TV like helmet, which also acts as glasses due to his near sightedness.
 
-Allied to [[2. Maple Leaf Members/Th3s1ll13s (Grian)\|Th3s1ll13s (Grian)]]
+Allied to [[2. Maple Leaf Members/Th3s1ll13s (Grian Thes Squid)\|Th3s1ll13s (Grian Thes Squid)]]
 ### Socials
 Bluesky: [milkofwriting.bsky.social](https://bsky.app/profile/milkofwriting.bsky.social)
 Tiktok: [@milkwayskits](https://www.tiktok.com/@milkwayskits?_t=8rhLon42Iik&_r=1)

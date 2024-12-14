@@ -3,9 +3,9 @@
 ---
 
 #Places #LoreFreeZone 
-### Established by
+# Established by
 [[2. Maple Leaf Members/XSleepySeraphx (Seraph)\|XSleepySeraphx (Seraph)]]  
-### Info
+# Info
 Seraph's Haven was established with the goals of giving people a place to retreat from the chaos. 
 [[3. Lore/Jorje (endermen)\|Jorje (endermen)]] used to live here.
 

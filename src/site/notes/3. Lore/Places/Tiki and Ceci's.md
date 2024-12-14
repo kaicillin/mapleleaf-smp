@@ -3,6 +3,6 @@
 ---
 
 #Places #LoreFreeZone 
-### Established by 
+# Established by 
 [[2. Maple Leaf Members/PineappleTrain (Tiki)\|PineappleTrain (Tiki)]] and [[2. Maple Leaf Members/EnablingCone779 (Ceci)\|EnablingCone779 (Ceci)]]
-### Info
+# Info
