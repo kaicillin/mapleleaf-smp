@@ -7,5 +7,6 @@
 [[2. Maple Leaf Members/Th3s1ll13s (Grian Thes Squid)\|Th3s1ll13s (Grian Thes Squid)]] and [[2. Maple Leaf Members/Milkway173 (Milk)\|Milkway173 (Milk)]]
 # Info
 Their alliance name is Lex Talionis - Latin for "The Law of Retaliation"
-	Dec 13 2024
+
+Dec 13 2024
 A stack of heads appear on a light post outside, and Milk claims to see his mother. 

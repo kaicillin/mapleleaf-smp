@@ -9,9 +9,23 @@ He/She/They
 Infected the world with skulk in another SMP! Chaotic
 SELF DESCRIBED WALKING LORE DOC/pos
 ### The Character
-Got Kidnapped, possibly manipulative! Who Knows!
+Possibly manipulative! Who Knows!
 
 Allied to [[2. Maple Leaf Members/Milkway173 (Milk)\|Milkway173 (Milk)]]
+
+Theseus, is not the only Theseus.
+
+In a place far away in both time and space, a Theseus existed on NewTales, with a whole soul. Before death, one half of the soul was lost to the universe, reappearing later in shards in various worlds. He was always meant to die in NewTales, by the hands of cruel fate and someone by the name of Annabelle/
+
+He's no longer The Theseus, and is simply one of many versions existing in the universe. On Maple Leaf, he still remembers all the memories of NewTales, especially *Annabelle*, and *Red*. 
+
+Known Theseus's
+- Prince
+- Monochromatic
+- Illusion Life
+- Icarus
+- Starchild
+- Maple Leaf
 ### Socials
 Bluesky: [@th3s1ll13s.bsky.social](https://bsky.app/profile/th3s1ll13s.bsky.social)
 Pronouns Page: [@Watchers](https://en.pronouns.page/@Watchers)
