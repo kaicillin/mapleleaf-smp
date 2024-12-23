@@ -10,5 +10,5 @@ She/They
 Old- *dies.*   
 Admin on the server, however this does not carry over into lore.
 ### The Character
-Tiki is 
+Tiki is "Old" (Tiki, 2024)
 ### Socials
