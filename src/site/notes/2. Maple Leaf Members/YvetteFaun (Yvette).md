@@ -8,6 +8,8 @@ She/They
 ### The Creator
 ### The Character
 Yvette does not have lore, and is teamed loosely to [[2. Maple Leaf Members/Milkway173 (Milk)\|Milkway173 (Milk)]]
+
+However. Yvette now has a Warden with no AI in their front yard, and calls them her child so-
 ### Socials
 Twitter: [@Yvette099333054](https://x.com/Yvette099333054)
 Tumblr: [@yvette-lily342](https://www.tumblr.com/yvette-lily342)
