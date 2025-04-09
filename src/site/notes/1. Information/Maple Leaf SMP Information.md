@@ -58,4 +58,4 @@ On
 ### Content
 Streams happen occasionally, and some post on TikTok about lore. Not everyone creates content, and there is not set schedule. Social are linked in every [[2. Maple Leaf Members/a. Members\|a. Members]] page.
 
-Season 2 is being planned. Slowly.
+SMP WILL BE ENDING LATE APRIL 2025.
